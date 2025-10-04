@@ -1,7 +1,8 @@
+
 sqlalchemy
 psycopg2-binary
 python-dotenv
 pandas
-openyxl
+openpyxl
 python-dateutil
 faker
