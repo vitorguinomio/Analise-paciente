@@ -30,11 +30,11 @@ def testar_insercao_paciente():
         
         # 1. Você cria um objeto Python normal, da classe Paciente
         novo_paciente = Paciente(
-            nome_completo="Paciente Teste SQLAlchemy",
-            cpf="99988877766",
-            data_nascimento=datetime.date(1985, 10, 2),
+            nome_completo="Vitor",
+            cpf="99285938256",
+            data_nascimento=datetime.date(1999, 11, 15),
             sexo='M',
-            nacionalidade='Brasileira'
+            nacionalidade='Angolano'
         )
 
         # 2. Você adiciona o objeto à sessão (área de trabalho)
